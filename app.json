@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Shopping",
-    "slug": "Shopping",
+    "name": "log-in-firebase",
+    "slug": "log-in-firebase",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
